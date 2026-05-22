@@ -18,7 +18,7 @@
 - Developing intelligent autonomous systems, strategic game AI logic, and pathfinding visualizers 
 - Conducting user-centered UI/UX research and creating high-fidelity prototypes in Figma
 - Exploring data encryption standards, secure cryptography, and video steganography systems
-- Reach me at: <b>your.email@example.com</b>
+- Reach me at: <b>rijafatima59@gmail.com</b>
 
 </div>
 
