@@ -1,48 +1,54 @@
-# Hi there, I'm Rija Fatima! 👋
+<p align="center" style="font-weight: 700; font-size: 32px; color: #06B6D6; font-family: 'Fira Code', monospace;">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=06B6D6&center=true&vCenter=true&width=800&height=100&size=32&lines=Hi+I'm+Rija+Fatima;Computer+Science+Undergraduate;Data+Engineering+%26+Automation;Python+%7C+PostgreSQL+%7C+AI+Agents;Logic+%7C+Data+Pipelines+%7C+Clean+Architecture" 
+    alt="Typing SVG" 
+    align="middle"
+  />
+</p>
 
-I am a **Computer Science Undergraduate** with a strong passion for **Data Infrastructure, Data Engineering, and Automation**. I love building efficient end-to-end pipelines, designing optimized database schemas, and developing intelligent autonomous agents.
-
----
-
-### 🚀 What I Do & Explore
-*   **Data Engineering:** Crafting automated ETL processes, data ingestion architectures, and robust pipelines.
-*   **AI & Autonomous Systems:** Developing autonomous intelligent agents, game AI logic, and smart pathfinding visualizers.
-*   **UI/UX Research:** High-fidelity prototyping, wireframing, and user-centered design system research.
-*   **Cybersecurity:** Exploring data encryption standards, cryptography, and secure steganography systems.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-*   **Languages:** Python, SQL (PostgreSQL), C++
-*   **Data & Backend:** ETL Pipelines, Database Schema Design, Automation Scripts
-*   **AI & Libraries:** Pygame, NumPy, Pandas, Scikit-learn
-*   **Design & Workflow:** Figma (Auto-layout, Prototyping), Git & GitHub
+<h3 align="center" style="margin-top: 40px; margin-bottom: 40px;">
+  Computer Science Undergraduate | Data Infrastructure & Automation
+</h3>
 
 ---
 
-### 📂 Featured Projects
+<div style="margin-bottom: 30px;">
 
-#### 📊 Automated Data Pipeline
-An end-to-end automation project built with **Python and PostgreSQL** that seamlessly manages data ingestion, complex transformations, and structural reporting stages.
+- Building automated ETL processes and robust data ingestion pipelines using Python & PostgreSQL
+- Developing intelligent autonomous systems, strategic game AI logic, and pathfinding visualizers 
+- Conducting user-centered UI/UX research and creating high-fidelity prototypes in Figma
+- Exploring data encryption standards, secure cryptography, and video steganography systems
+- Reach me at: <b>your.email@example.com</b>
 
-#### 🎮 Autonomous Battle City AI Agent
-An intelligent autonomous agent developed for the Battle City environment, implementing strategic decision-making logic for real-time automated gameplay.
-
-#### 🗺️ Dynamic Pathfinding Agent Visualizer
-A real-time graphical visualizer developed in **Python and Pygame** showcasing automated agents navigating environments using **A\*** and **Greedy Best-First Search** algorithms.
-
-#### 🔒 Video Steganography System
-A security-centric application designed for high-level data hiding inside video containers, integrated with robust encryption standards.
+</div>
 
 ---
 
-### 📈 GitHub Stats
+### Tools & Technologies
+<p align="center" style="margin-top: 30px; margin-bottom: 30px;">
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
-✨ *In love with data, logic, and clean architecture.* ✨
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
 
 ---
 
-### 🤝 Connect with Me
-*   [LinkedIn](https://linkedin.com/in/RijaFatima92)
-*   [Email](rijafatima59@gmail.com)
+### Connect
+<p align="center" style="margin-top: 30px;">
+  <a href="https://www.linkedin.com/in/RijaFatima92" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rijafatima59@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
