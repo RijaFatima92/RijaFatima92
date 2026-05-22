@@ -1,6 +1,6 @@
 <p align="center" style="font-weight: 700; font-size: 32px; color: #06B6D6; font-family: 'Fira Code', monospace;">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=06B6D6&center=true&vCenter=true&width=800&height=100&size=32&lines=Hi+I'm+Rija+Fatima+👋;Computer+Science+Undergraduate;Data+Engineering+%26+Automation;Python+%7C+PostgreSQL+%7C+AI+Agents; Logic+%7C+Data+Pipelines+%7C+Clean+Architecture " 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=06B6D6&center=true&vCenter=true&width=800&height=100&size=32&lines=Hi+I%27m+Rija+Fatima+%F0%9F%91%8B;Computer+Science+Undergraduate;Data+Engineering+%26+Automation;Python+%7C+PostgreSQL+%7C+AI+Agents;Logic+%7C+Data+Pipelines+%7C+Clean+Architecture" 
     alt="Typing SVG" 
     align="middle"
   />
