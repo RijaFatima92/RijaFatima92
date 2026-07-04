@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center" style="margin-top: 20px; margin-bottom: 30px; font-family: 'Fira Code', monospace;">
-  Computer Science Undergraduate | Data Infrastructure & Automation
+  Computer Science Undergraduate | Data Infrastructure & AI Automation
 </h3>
 
 ---
@@ -15,33 +15,62 @@
 ### 🚀 About Me
 <div style="margin-bottom: 30px; line-height: 1.6;">
 
-- 🛠️ **Data Infrastructure:** Building automated ETL processes and robust data ingestion pipelines using Python & PostgreSQL.
-- 🤖 **Intelligent Systems:** Developing autonomous systems, strategic game AI logic, and pathfinding visualizers.
-- 🎨 **UI/UX Research:** Conducting user-centered research and creating high-fidelity prototypes in Figma.
-- 🔐 **Cybersecurity:** Exploring data encryption standards, secure cryptography, and video steganography systems.
+- 🛠️ **Data Infrastructure:** Engineering automated ETL processes, robust data ingestion pipelines, and handling structured/unstructured databases.
+- 🤖 **AI & Intelligent Systems:** Developing autonomous agents, strategic game AI logic, and applying pathfinding algorithms.
+- ⚙️ **Backend & Logic:** Passionate about building behind-the-scenes scalable logic, custom webhooks, and automation over user-facing interfaces.
+- 🔐 **Cybersecurity:** Exploring secure cryptography, data encryption standards, and digital steganography systems.
+- 🎨 **UI/UX Foundations:** Incorporating user-centered research and high-fidelity prototyping into systemic design.
 
 </div>
 
 ---
 
-### 🛠️ Languages-Frameworks-Tools
+### 🛠️ Tools & Technologies
 
-<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <b>Languages & Core Backend</b>
+    </td>
+    <td align="center" width="33%">
+      <b>Data Engineering & AI/ML</b>
+    </td>
+    <td align="center" width="33%">
+      <b>DevOps & Design Tools</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Tableau-E28743?style=flat-square&logo=tableau&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center" style="margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+---
 
-<p align="center" style="margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+### 💻 Featured Projects
+
+*   **Automated Academic Data Pipeline** ⚡  
+    Engineered a custom data pipeline using Python and PostgreSQL to seamlessly ingest, transform, and map complex institutional workflows.
+*   **Autonomous Game AI Agent** 🎮  
+    Designed and implemented a pathfinding agent for a Battle City simulation leveraging $A^*$ and Greedy Best-First Search algorithms to execute real-time strategic decisions.
+*   **Secure Video Steganography System** 🔒  
+    Developed a Python-based secure data concealment application incorporating DES encryption and FFV1 lossless video codecs to preserve data payload integrity.
 
 ---
 
