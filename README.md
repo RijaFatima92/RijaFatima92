@@ -1,4 +1,4 @@
-<p align="center" style="font-weight: 700; font-size: 28px; color: #06B6D6; font-family: 'Fira Code', monospace;">
+<p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=06B6D6&center=true&vCenter=true&width=950&height=100&size=28&lines=Hi+I%27m+Rija+Fatima+%F0%9F%91%8B;Computer+Science+Undergraduate;Data+Engineering+%26+Automation;Python+%7C+PostgreSQL+%7C+AI+Agents;Logic+%7C+Data+Pipelines+%7C+Clean+Architecture" 
     alt="Typing SVG" 
@@ -6,44 +6,61 @@
   />
 </p>
 
-<h3 align="center" style="margin-top: 40px; margin-bottom: 40px;">
+<h3 align="center" style="margin-top: 20px; margin-bottom: 30px; font-family: 'Fira Code', monospace;">
   Computer Science Undergraduate | Data Infrastructure & Automation
 </h3>
 
 ---
 
-<div style="margin-bottom: 30px;">
+### 🚀 About Me
+<div style="margin-bottom: 30px; line-height: 1.6;">
 
-- Building automated ETL processes and robust data ingestion pipelines using Python & PostgreSQL
-- Developing intelligent autonomous systems, strategic game AI logic, and pathfinding visualizers 
-- Conducting user-centered UI/UX research and creating high-fidelity prototypes in Figma
-- Exploring data encryption standards, secure cryptography, and video steganography systems
-- Reach me at: <b>rijafatima59@gmail.com</b>
+- 🛠️ **Data Infrastructure:** Building automated ETL processes and robust data ingestion pipelines using Python & PostgreSQL.
+- 🤖 **Intelligent Systems:** Developing autonomous systems, strategic game AI logic, and pathfinding visualizers.
+- 🎨 **UI/UX Research:** Conducting user-centered research and creating high-fidelity prototypes in Figma.
+- 🔐 **Cybersecurity:** Exploring data encryption standards, secure cryptography, and video steganography systems.
 
 </div>
 
 ---
 
-### Tools & Technologies
-<p align="center" style="margin-top: 30px; margin-bottom: 30px;">
-  
+### 🛠️ Languages-Frameworks-Tools
+
+<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
 
+<p align="center" style="margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
+<p align="center" style="margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
 </p>
 
 ---
 
-### Connect
-<p align="center" style="margin-top: 30px;">
+### 📊 Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RijaFatima92&theme=dark&hide_border=false" alt="Rija's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RijaFatima92&show_icons=true&theme=dark&count_private=true" alt="Rija's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RijaFatima92&layout=compact&theme=dark" alt="Rija's Top Languages" width="48%" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center" style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/RijaFatima92" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
