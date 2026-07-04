@@ -70,11 +70,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RijaFatima92&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <!-- Using a reliable community mirror to bypass the broken server -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=RijaFatima92&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=RijaFatima92&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
