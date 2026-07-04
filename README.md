@@ -63,17 +63,6 @@
 
 ---
 
-### 💻 Featured Projects
-
-*   **Automated Academic Data Pipeline** ⚡  
-    Engineered a custom data pipeline using Python and PostgreSQL to seamlessly ingest, transform, and map complex institutional workflows.
-*   **Autonomous Game AI Agent** 🎮  
-    Designed and implemented a pathfinding agent for a Battle City simulation leveraging $A^*$ and Greedy Best-First Search algorithms to execute real-time strategic decisions.
-*   **Secure Video Steganography System** 🔒  
-    Developed a Python-based secure data concealment application incorporating DES encryption and FFV1 lossless video codecs to preserve data payload integrity.
-
----
-
 ### 📊 Stats & Contributions
 
 <p align="center">
