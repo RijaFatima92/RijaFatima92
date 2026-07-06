@@ -66,10 +66,16 @@
 ### 📊 Stats & Contributions
 
 <p align="center">
-  <!-- GitHub Streak Stats (Working) -->
+  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RijaFatima92&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <!-- Main GitHub Stats Card (Restored with a reliable server mirror) -->
+  <img src="https://github-readme-stats-six-alpha.vercel.app/api?username=RijaFatima92&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="48%" />
+  <!-- Top Languages Card (Restored with a reliable server mirror) -->
+  <img src="https://github-readme-stats-six-alpha.vercel.app/api/top-langs/?username=RijaFatima92&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
