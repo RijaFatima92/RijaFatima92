@@ -16,9 +16,9 @@
 
 - 🤖 **AI & Intelligent Systems:** Building autonomous agents, game-playing AI, and pathfinding/adversarial search algorithms (A*, Greedy Best-First Search, Minimax with Alpha-Beta Pruning).
 - 🏗️ **Systems & Full-Stack Builds:** Recreating real-world systems from scratch — from a hash-map-powered Instagram clone to full MERN-stack apps with REST APIs and JWT auth.
-- ⚙️ **Backend & Architecture:** Drawn to the logic behind the interface — scalable backend systems and clean, maintainable architecture.
+- ⚙️ **Backend & Architecture:** Designing scalable backend systems and clean, maintainable architecture — drawn to the logic behind the interface.
 - 🔐 **Cybersecurity:** Exploring cryptography, encryption standards, and digital steganography systems.
-- 🎨 **UI/UX Foundations:** Incorporating user-centered research and high-fidelity prototyping into systemic design.
+- 🎨 **UI/UX Foundations:** Incorporating user-centered research and high-fidelity prototyping into system design.
 
 ---
 
@@ -63,7 +63,7 @@
 ### 📊 Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RijaFatima92&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=RijaFatima92&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
