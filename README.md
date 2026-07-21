@@ -6,22 +6,19 @@
   />
 </p>
 
-<h3 align="center" style="margin-top: 20px; margin-bottom: 30px; font-family: 'Fira Code', monospace;">
+<h3 align="center">
   Computer Science Undergraduate | AI Builder & Intelligent Systems Developer
 </h3>
 
 ---
 
 ### 🚀 About Me
-<div style="margin-bottom: 30px; line-height: 1.6;">
 
 - 🤖 **AI & Intelligent Systems:** Building autonomous agents, game-playing AI, and pathfinding/adversarial search algorithms (A*, Greedy Best-First Search, Minimax with Alpha-Beta Pruning).
 - 🏗️ **Systems & Full-Stack Builds:** Recreating real-world systems from scratch — from a hash-map-powered Instagram clone to full MERN-stack apps with REST APIs and JWT auth.
 - ⚙️ **Backend & Architecture:** Drawn to the logic behind the interface — scalable backend systems and clean, maintainable architecture.
 - 🔐 **Cybersecurity:** Exploring cryptography, encryption standards, and digital steganography systems.
 - 🎨 **UI/UX Foundations:** Incorporating user-centered research and high-fidelity prototyping into systemic design.
-
-</div>
 
 ---
 
@@ -66,22 +63,19 @@
 ### 📊 Stats & Contributions
 
 <p align="center">
-  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RijaFatima92&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- Main GitHub Stats Card (Restored with a reliable server mirror) -->
-  <img src="https://github-readme-stats-six-alpha.vercel.app/api?username=RijaFatima92&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="48%" />
-  <!-- Top Languages Card (Restored with a reliable server mirror) -->
-  <img src="https://github-readme-stats-six-alpha.vercel.app/api/top-langs/?username=RijaFatima92&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RijaFatima92&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RijaFatima92&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ### 🤝 Connect With Me
 
-<p align="center" style="margin-top: 20px;">
+<p align="center">
   <a href="https://www.linkedin.com/in/RijaFatima92" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
