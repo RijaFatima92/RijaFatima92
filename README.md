@@ -1,85 +1,216 @@
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=06B6D6&center=true&vCenter=true&width=950&height=100&size=28&lines=Hi+I%27m+Rija+Fatima+%F0%9F%91%8B;Computer+Science+Undergraduate;AI+Builder+%26+Intelligent+Systems;Python+%7C+C%2B%2B+%7C+Autonomous+Agents;Algorithms+%7C+Full-Stack+Builds+%7C+Clean+Architecture" 
-    alt="Typing SVG" 
-    align="middle"
-  />
+<div align="center">
+
+# 👋 Hi, I'm Rija Fatima
+
+### Computer Science Student • AI Builder • Intelligent Systems Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+AI+that+solves+real+problems.;Full-Stack+Developer+%7C+Backend+Engineer.;Algorithms+%7C+Machine+Learning+%7C+Autonomous+Agents.;Always+learning.+Always+building." />
+
+<p>
+
+<img src="https://img.shields.io/badge/AI-Developer-06B6D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Backend-Enthusiast-3B82F6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Science-Student-0EA5E9?style=for-the-badge"/>
+
 </p>
 
-<h3 align="center">
-  Computer Science Undergraduate | AI Builder & Intelligent Systems Developer
-</h3>
+</div>
 
 ---
 
-### 🚀 About Me
+# 🚀 About Me
 
-- 🤖 **AI & Intelligent Systems:** Building autonomous agents, game-playing AI, and pathfinding/adversarial search algorithms (A*, Greedy Best-First Search, Minimax with Alpha-Beta Pruning).
-- 🏗️ **Systems & Full-Stack Builds:** Recreating real-world systems from scratch — from a hash-map-powered Instagram clone to full MERN-stack apps with REST APIs and JWT auth.
-- ⚙️ **Backend & Architecture:** Designing scalable backend systems and clean, maintainable architecture — drawn to the logic behind the interface.
-- 🔐 **Cybersecurity:** Exploring cryptography, encryption standards, and digital steganography systems.
-- 🎨 **UI/UX Foundations:** Incorporating user-centered research and high-fidelity prototyping into system design.
+I'm a Computer Science undergraduate passionate about building intelligent software that automates complex tasks and improves real-world workflows.
 
----
+My interests revolve around
 
-### 🛠️ Tools & Technologies
+- 🤖 Artificial Intelligence
+- 🧠 Intelligent Agents
+- ⚡ Backend Engineering
+- 🏗 Software Architecture
+- 🔍 Algorithms & Optimization
+- 📊 Machine Learning
+- 🌐 Full Stack Development
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <b>Languages & Web</b>
-    </td>
-    <td align="center" width="33%">
-      <b>AI/ML & Computer Vision</b>
-    </td>
-    <td align="center" width="33%">
-      <b>Backend, DevOps & Design</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+I enjoy turning ideas into practical products—from autonomous search algorithms and AI systems to scalable backend applications.
 
 ---
 
-### 📊 Stats & Contributions
+# 💡 Current Focus
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RijaFatima92&theme=dark&hide_border=false" alt="GitHub Streak" />
+✅ AI-Powered Real Estate Lead Automation
+
+✅ Autonomous AI Agents
+
+✅ Recommendation Systems
+
+✅ Backend APIs
+
+✅ Machine Learning
+
+✅ Product Thinking
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css"/>
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RijaFatima92&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RijaFatima92&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+
+</p>
+
+## AI & Data
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat"/>
+
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux"/>
+
 </p>
 
 ---
 
-### 🤝 Connect With Me
+# 🌟 Featured Projects
+
+### 🏡 AI Real Estate Lead Automation
+
+> Intelligent lead scoring, semantic property matching, WhatsApp automation, FastAPI backend, ChromaDB, JWT authentication.
+
+---
+
+### ♟ AI Game Agent
+
+Implemented
+
+- A*
+- Greedy Best First Search
+- Minimax
+- Alpha-Beta Pruning
+
+to build autonomous game-playing agents.
+
+---
+
+### 📱 Instagram Clone
+
+Built from scratch using custom Hash Maps, authentication, user feeds, and efficient data structures.
+
+---
+
+### 🌐 MERN Applications
+
+REST APIs
+
+JWT Authentication
+
+MongoDB
+
+Responsive Frontend
+
+Backend Architecture
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/RijaFatima92" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:rijafatima59@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RijaFatima92&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RijaFatima92&layout=compact&theme=tokyonight"/>
+
 </p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=RijaFatima92&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RijaFatima92&theme=algolia&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RijaFatima92&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Large Language Models
+- AI Product Development
+- RAG Systems
+- Vector Databases
+- Agentic AI
+- DevOps for AI
+- Cloud Deployment
+
+---
+
+# 📫 Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/RijaFatima92">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:rijafatima59@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Great software isn't just built—it is thoughtfully designed, intelligently engineered, and continuously improved."
+
+<img src="https://komarev.com/ghpvc/?username=RijaFatima92&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</div>
