@@ -40,8 +40,6 @@ I enjoy turning ideas into practical products—from autonomous search algorithm
 
 # 💡 Current Focus
 
-✅ AI-Powered Real Estate Lead Automation
-
 ✅ Autonomous AI Agents
 
 ✅ Recommendation Systems
@@ -97,12 +95,6 @@ I enjoy turning ideas into practical products—from autonomous search algorithm
 ---
 
 # 🌟 Featured Projects
-
-### 🏡 AI Real Estate Lead Automation
-
-> Intelligent lead scoring, semantic property matching, WhatsApp automation, FastAPI backend, ChromaDB, JWT authentication.
-
----
 
 ### ♟ AI Game Agent
 
