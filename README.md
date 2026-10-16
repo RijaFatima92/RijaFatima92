@@ -111,16 +111,22 @@ Developed a data analysis application to explore city-wise COVID-19 data in Paki
   <img src="https://streak-stats.demolab.com?user=RijaFatima92&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Profile
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RijaFatima92&theme=algolia&margin-w=10&margin-h=10" alt="GitHub trophies" />
+  <a href="https://github.com/RijaFatima92">
+    <img src="https://img.shields.io/badge/Visit-My%20GitHub%20Profile-181717?style=for-the-badge&logo=github" alt="Visit my GitHub profile" />
+  </a>
 </p>
 
-## 📊 Contribution Graph
+## 📊 GitHub Contribution Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RijaFatima92&theme=tokyo-night&hide_border=true" alt="GitHub contribution graph" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RijaFatima92&theme=tokyonight"
+    alt="GitHub profile summary and contribution overview"
+    width="100%"
+  />
 </p>
 
 ---
